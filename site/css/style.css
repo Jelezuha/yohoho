@@ -32,6 +32,7 @@ input:focus{outline: none;}
 
 .container {
   margin: 0 auto;
+  padding: 15px;
 }
 
 
